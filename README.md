@@ -64,7 +64,7 @@ ____________________________________________________
 		Which is Most Fundamental Value/Variable/Type
 			Reason It!
 		
-		Type and Variables Must Coexits Always!
+		Type and Variables/Value Must Coexits Always!
 			Reason It?
 
 		Set Definition:
@@ -73,7 +73,37 @@ ____________________________________________________
 
 			What is an Object?
 			Why Order Doesn't Matters?
-				What Is Far More Fundamental Order or Unordered?
+				What Is Far More Fundamental 
+					Order or Unordered?
 				Reason It!
 			Why Duplicates Doesn't Matters?
+
+DAY 3
+____________________________________________________
+	Reading Assignments
+	________________________________________________
+		Java Collections - Cay Hortsman
+
+		Programming In C By Kernigham and Dennis Ritchie
+		2nd Edition
+			Array and Pointers Chapter [MUST]
+
+DAY 4
+____________________________________________________
+	Reading Assignments
+	________________________________________________
+		Java Collections - Cay Hortsman
+
+		Programming In C By Kernigham and Dennis Ritchie
+		2nd Edition
+			Array and Pointers Chapter [MUST]
+
+		Type Check In Java
+	
+	Reasoning Assignments
+	________________________________________________
+		Is Class Fundamental?
+			Reason It!
+
+		Why James Josling Said, " I will remove class idea itself"
 
