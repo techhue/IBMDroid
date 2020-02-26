@@ -107,3 +107,16 @@ ____________________________________________________
 
 		Why James Josling Said, " I will remove class idea itself"
 
+DAY 5
+____________________________________________________
+	Read and Coding Assignments
+	________________________________________________
+		What Are Singleton Classes In Java/C++?
+		How to create Singleton Classes?
+			In Java/C++
+		
+	Reasoning Assignments
+	________________________________________________
+		When you say System Evolution is Evolution!
+			Not Just a Change!
+			Change For Better!
