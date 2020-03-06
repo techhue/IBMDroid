@@ -91,3 +91,87 @@ ____________________________________________________
 
 	    private Window mWindow;
 	    private WindowManager mWindowManager;
+
+
+DAY 12
+____________________________________________________
+
+	Reading Assignments [MUST]
+	________________________________________________
+		Android Reference Links
+		https://developer.android.com/guide/components/fundamentals
+		https://developer.android.com/guide/components/activities/intro-activities?hl=en
+		https://developer.android.com/guide/components/activities/activity-lifecycle
+		https://developer.android.com/guide/components/fragments
+		https://developer.android.com/guide/topics/ui/declaring-layout
+		https://developer.android.com/guide/components/intents-filters
+		https://developer.android.com/guide/topics/resources/runtime-changes
+		https://developer.android.com/guide/topics/resources/providing-resources
+	
+	Coding Assignments Tutorials [ FOR STARTERS ]
+	________________________________________________
+		First Android App
+		https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin/#0
+		
+		Android Fragement
+		https://codelabs.developers.google.com/codelabs/advanced-android-training-fragments/index.html#0	Kotlin Coding Assignments [MUST]
+
+	
+	Kotlin Coding Assignments [MUST]
+	________________________________________________
+		Write Kotlin Code For Following Code Examples
+		With Good Design, Role and Responsibilies
+
+		Android.Code1 > Project.03 > ... 
+			Project.03.01.ManifestAndResources
+			Project.03.02.Snippets
+			Project.03.03.ConfigChanges
+			Project.03.04.Activities
+
+		Android.Code2 > Project.04 > ... 
+			Project.04.01.Layouts
+			Project.04.03.Views
+			Project.04.04.Adapters
+
+		Android.Code.Fragement > ...
+			fb-fragments-demo-master
+			android-fragment-basics-master
+				Reproduce and Fix Fragement Bug
+
+		Android.Code3 > Project.05 > ... 
+			Project.05.01.Intents
+			Project.05.03.BoadcastIntents
+
+
+	Coding Project FirstGunners [ BEST EFFORT BASIS ]
+	________________________________________________
+		Implement Android Project With Following Features
+
+		Features 01
+			Select Horses And Guns 
+				Hourses And Guns Are Various Specificiations
+					Minimum 2-3 Parameters, One Will Be Image
+		
+		Features 02
+			Select Ammunition 
+				Ammunition Has Specificiations
+					Minimum 2-3 Parameters, One Will Be Image
+					Ammunition Should Be Matching With Guns
+					Extra Ammunition Types e.g. Swords, Khukri
+
+		Features 03
+			Select Contingent 
+				Armyperson Has Specificiations
+					Minimum 2-3 Parameters, One Will Be Image
+				Match Armyperson with Ammunition, Guns And Horses
+
+		Features 04
+			Revoke Holidays: Call For War
+
+		Features 05
+			Prepare Consolidated Contigent Composition
+				Armyperson
+				Guns and Hourses
+				Ammunition
+			Show This List In Browser
+
