@@ -175,3 +175,11 @@ ____________________________________________________
 				Ammunition
 			Show This List In Browser
 
+DAY 13
+____________________________________________________
+	Pending Reading Assignments Complete It!
+	
+	Practice Git Commands
+	Practice Git Branching, Checkout and Merging
+
+	Complete Kotlin Code Examples
