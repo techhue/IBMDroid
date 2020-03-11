@@ -183,3 +183,133 @@ ____________________________________________________
 	Practice Git Branching, Checkout and Merging
 
 	Complete Kotlin Code Examples
+
+DAY 14
+____________________________________________________
+	Project FirstGunners [ MUST ]
+	________________________________________________
+		OBJECTIVES
+		________________________________________________
+			Design, Role and Responsibilies
+				Remember: Android Application Definition!
+			Component Oriented Architecture
+			Communication Protocols Between Components
+			Data Exchange Between Components
+			Components Ownership Design
+			Loose Coupling Between Compoents And Objects
+		
+		________________________________________________
+		Implement Android Project With Following Features
+
+		Features 01
+			Select Horses And Guns 
+				Hourses And Guns Are Various Specificiations
+					Minimum 2-3 Parameters, One Will Be Image
+		
+		Features 02
+			Select Ammunition 
+				Ammunition Has Specificiations
+					Minimum 2-3 Parameters, One Will Be Image
+					Ammunition Should Be Matching With Guns
+					Extra Ammunition Types e.g. Swords, Khukri
+
+		Features 03
+			Select Contingent 
+				Armyperson Has Specificiations
+					Minimum 2-3 Parameters, One Will Be Image
+				Match Armyperson with Ammunition, Guns And Horses
+
+		Features 04
+			Revoke Holidays: Call For War
+
+		Features 05
+			Prepare Consolidated Contigent Composition
+				Armyperson
+				Guns and Hourses
+				Ammunition
+			Show This List In Browser
+
+		Features 06
+			Prepare Reconnaissance Contingent
+			Dispactch Reconnaissance Contingent
+				Access Enemy Strength
+				Access Enemy Resources
+				Enemy Location And Distribution
+			Inform HeadQuater About Intelligence Gathered
+
+		Features 07
+			Prepare Attack Teams Contingent
+				Based On Intelligence Recieved
+				About Enemy Capabilities
+			Define Attack Team Objectives
+
+		Features 08
+			Launch Attack
+
+		Features 09
+			Implement UI Using Fragement 
+			Use Contraint Layout For UI 
+			Beautify UI 
+
+DAY 15
+____________________________________________________
+	Reading Assignments [ MUST ]
+	________________________________________________
+	https://developer.android.com/guide/components/broadcasts
+	https://en.wikipedia.org/wiki/Observer_pattern
+	https://developer.android.com/guide/components/services.html#java
+	https://developer.android.com/reference/android/os/AsyncTask
+	https://developer.android.com/guide/components/processes-and-threads	
+	https://developer.android.com/guide/components/activities/process-lifecycle
+	
+	Practice Android Codelabs [ ADDITIONALS ]
+	________________________________________________
+	https://codelabs.developers.google.com/codelabs/android-lifecycles/#0
+	https://developer.android.com/topic/libraries/architecture/lifecycle
+	https://codelabs.developers.google.com/codelabs/android-room-with-a-view/#0
+
+	Android Reading Assignments [ ADDITIONALS ]
+	________________________________________________
+	https://developer.android.com/jetpack/docs/guide
+	https://developer.android.com/topic/libraries/architecture/lifecycle
+	https://medium.com/androiddevelopers/viewmodels-a-simple-example-ed5ac416317e
+
+	https://github.com/android/architecture-components-samples/tree/master/BasicSample
+	https://medium.com/androiddevelopers/viewmodels-and-livedata-patterns-antipatterns-21efaef74a54
+
+	Kotlin Coding Assignments [ MUST ]
+	________________________________________________
+		Android.Code.Services > ... 
+			AndroidServicesDemo
+			Project.09.01.MyService
+
+	Kotlin Coding Assignments [ OPTIONAL ]
+	________________________________________________
+		Android.Code4 > Project.06 > ... 
+			Project.06.01.Internet 
+
+		Android.Code5 > Project.08 > ... 
+			Project.08.01.DatabaseSkeleton
+			Project.08.02.ContentProviders
+
+		Android.Code.Services > ... 
+			AndroidServicesDemo
+			Project.09.01.MyService
+
+	Explore and Reason Design [ FUTURE ]
+	________________________________________________
+		DownloadManager Class
+		ViewModel, LifeCycleObserver/LifeCycleOwner Classes
+		LiveData, Room Classes
+
+	Exploring And Thinking Assignment
+	________________________________________________		
+		Activity To Services Communication?
+			Activity Dies But Service Will Update Activity UI
+		
+		Process, Threads and Android Components
+		Aync Task
+		Services and Content Providers
+
+		Why Tree Everywhere?
+		Why View Object Passed in onClick(View v)?
